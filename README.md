@@ -2,7 +2,7 @@
 
 **INSTaller Of Lean Functioning**
 
-`noarch` installer for selecting, downloading and installing any package.
+`noarch` installer for selecting, downloading and installing any package from any repository.
 
 ## For RPM packages
 
